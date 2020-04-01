@@ -2,7 +2,7 @@
 
 ## Purpose
 
-   - Provide information about claim of insure.
+   - Provide information about claim.
 
 ## Installation
 
