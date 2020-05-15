@@ -1,5 +1,5 @@
 # BODOC CLAIM CONTENTS
-[![Build Status](https://github.com/aijinet/bodoc-claim-contents/workflows/ban/badge.svg)](https://github.com/aijinet/bodoc-claim-contents/actions?query=workflow%3Aban)
+![ban](https://github.com/aijinet/bodoc-claim-contents/workflows/ban/badge.svg?branch=master)
 
 ## Purpose
 
