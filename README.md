@@ -1,8 +1,9 @@
 # BODOC CLAIM CONTENTS
+[![Build Status](https://github.com/aijinet/bodoc-claim-contents/workflows/ban/badge.svg)](https://github.com/aijinet/bodoc-claim-contents/actions?query=workflow%3Aban)
 
 ## Purpose
 
-   - Provide information about claim.
+   - Provide information about Claims
 
 ## Installation
 
@@ -20,9 +21,9 @@ code .
 2. 생성한 폴더 내에 md 파일을 작성 및 저장
 3. `git remote add origin https://github.com/aijinet/bodoc-claim-contents.git`
 4. `git add .`
-5. `git commit -m <your message>` 
+5. `git commit -m <your message>`
    - example) `git commit -m "first commit"`
-6. `git push --set-upstream origin <your branch>` 
+6. `git push --set-upstream origin <your branch>`
    - example) `git push --set-upstream origin https://github.com/aijinet/bodoc-claim-contents.git`
 
 ### Normal
